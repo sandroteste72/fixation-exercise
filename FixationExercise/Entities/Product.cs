@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace FixationExercise.Entities
+﻿namespace FixationExercise.Entities
 {
     class Product
     {
